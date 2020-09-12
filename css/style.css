@@ -1,1 +1,67 @@
+.navbar-brand {
+    font-size: 2em;
+    border: 0 0 10px 10px;
+    color: #FFFFFF;
+  }
+  
 
+  #header-nav {
+    border: 0;
+    background-color: black;
+    color: #FFFFFF;
+  }
+  
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid red;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+  
+  .nav-header {
+    background-color: #FFFFFF;
+  }
+  
+  .nav-brand {
+    color: #FFFFFF;
+    font-size: 1.5em;
+  }
+  
+  #nav-list {
+    color: white;
+  }
+  
+  hr {
+    border-color: white;
+  }
+  
+  .item {
+    color: white;
+    font-size: 1.2em;
+  }
+
+#main-content-title  {
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.row {
+    background: cadetblue;
+    width: 100%;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#Chicken {
+    font-weight: bolder;
+    font-size: 30px;
+    color: blueviolet;
+}
+
+p {
+    padding: 10px;
+}
